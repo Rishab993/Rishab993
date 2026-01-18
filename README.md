@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Rishab 👋  <br>✨ B. Tech CSE(AIDS) @ Sastra University<br>🎯 Passionate about coding, problem-solving, and continuous learning.<br>  <br>💡 Skilled in C++, DSA, and exploring cloud computing.<br><br><br> <br>
+Hi, I’m Rishab 👋  <br>✨ B. Tech CSE(AIDS) @ Sastra University<br>🎯 Passionate about coding, problem-solving, and continuous learning.<br>💡 Skilled in C++, DSA, and exploring cloud computing.<br><br><br> <br>
 
 
 # 💻 Tech Stack:
