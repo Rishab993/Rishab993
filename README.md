@@ -62,20 +62,20 @@ Currently, I'm strengthening my understanding of **Data Structures & Algorithms*
 <details open>
 <summary><b>PREACT — Proactive Resource Allocation & Event-Adaptive Command Tool</b></summary>
 
-AI-powered police command platform that assists authorities in validating complaints, managing volunteers, allocating resources, and monitoring incidents through an interactive command dashboard.
+Dual-role Flutter app for Bengaluru Traffic Police — citizens report violations while police get 72-hour AI forecasting, OR-Tools deployment optimization, live monitoring, and post-event regret analysis. Built on 8,200+ real incident records.
 
 ### Highlights
-
-- AI-assisted complaint validation
-- Live complaint management
-- Volunteer onboarding & approval workflow
-- Interactive GIS-based deployment dashboard
-- Analytics for resource allocation
-- Developed for a national-level hackathon
+- 72-hour zone-level severity forecasting via Prophet + XGBoost
+- OR-Tools CP-SAT optimizer for data-driven officer deployment
+- IsolationForest anomaly detection for unplanned gathering alerts
+- DoWhy counterfactual engine for post-event regret scoring
+- Supabase Realtime WebSocket push to citizen and police clients
+- Bilingual voice assistant (English + Kannada) across all screens
+- Full forecast → deploy → simulate → debrief learning loop
+- Built for Flipkart GRIDLOCK 2.0 — Event-Driven Congestion track
 
 ### Tech Stack
-
-`Flutter` `Node.js` `Express.js` `Supabase` `PostgreSQL` `Docker`
+`Flutter` `FastAPI` `Supabase` `Prophet` `XGBoost` `OR-Tools` `PostgreSQL`
 
 **Repository:** https://github.com/Rishab993/PREACT
 
