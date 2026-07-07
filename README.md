@@ -86,19 +86,17 @@ Dual-role Flutter app for Bengaluru Traffic Police — citizens report violation
 <details open>
 <summary><b>Saarathi — AI Emergency Response System</b></summary>
 
-An intelligent emergency response platform that detects accidents and coordinates emergency services using AI and Bluetooth Mesh communication, ensuring assistance even in low-connectivity environments.
+An offline-first emergency response platform that auto-detects accidents and coordinates help via AI and Bluetooth Mesh — working even with zero internet or cellular signal.
 
-### Highlights
+**Highlights**
+- Auto crash & fall detection (sensor-triggered, no user action needed)
+- BLE Mesh SOS relay through nearby bystander phones
+- Gemini AI incident triage & auto-generated reports
+- Smart responder routing via OSM
+- SMS fallback when mesh and data both fail
 
-- AI crash & fall detection
-- BLE Mesh communication
-- Smart responder routing
-- Automated SOS generation
-- AI-powered incident reports
-
-### Tech Stack
-
-`Flutter` `Firebase` `Gemini API` `Bluetooth Mesh`
+**Tech Stack**
+`Flutter` `Firebase` `Gemini API` `Bluetooth Mesh` `OSM`
 
 **Repository:** https://github.com/Rishab993/SAARATHI
 
