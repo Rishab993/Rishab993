@@ -41,8 +41,6 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence &
 
 I enjoy building software that solves practical problems through scalable system design and clean engineering practices. My projects range from AI-assisted applications and emergency response systems to full-stack platforms, giving me experience across frontend development, backend architecture, databases, and deployment.
 
-Currently, I'm strengthening my understanding of **Data Structures & Algorithms**, **Computer Science fundamentals**, and modern backend technologies while building projects that reflect production-oriented software engineering.
-
 ---
 
 # Tech Stack
